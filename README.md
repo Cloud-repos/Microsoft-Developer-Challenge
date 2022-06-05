@@ -1,4 +1,4 @@
-# Microsoft-Developer-Challenge
+# Microsoft-Azure-Developer-Challenge
 
 Modules in this collection.
 
@@ -10,3 +10,4 @@ Modules in this collection.
 * [Develop Azure Functions](https://docs.microsoft.com/en-us/learn/modules/develop-azure-functions/)
 * [Implement Durable Functions](https://docs.microsoft.com/en-us/learn/modules/implement-durable-functions/)
 * [Explore Azure Blob storage](https://docs.microsoft.com/en-us/learn/modules/explore-azure-blob-storage/)
+* [Manage the Azure Blob storage lifecycle](https://docs.microsoft.com/en-us/learn/modules/manage-azure-blob-storage-lifecycle/)
