@@ -1,4 +1,4 @@
-# Microsoft-Azure-Developer-Challenge
+# Microsoft Azure Developer Challenge
 
 Modules in this collection.
 
