@@ -13,3 +13,4 @@ Modules in this collection.
 * [Manage the Azure Blob storage lifecycle](https://docs.microsoft.com/en-us/learn/modules/manage-azure-blob-storage-lifecycle/)
 * [Work with Azure Blob storage](https://docs.microsoft.com/en-us/learn/modules/work-azure-blob-storage/)
 * [Explore Azure Cosmos DB](https://docs.microsoft.com/en-us/learn/modules/explore-azure-cosmos-db/)
+* [Implement partitioning in Azure Cosmos DB](https://docs.microsoft.com/en-us/learn/modules/implement-partitioning-azure-cosmos-db/)
